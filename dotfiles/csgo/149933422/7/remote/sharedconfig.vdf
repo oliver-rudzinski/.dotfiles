@@ -1,0 +1,69 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"SSAVersion"		"2"
+				"PrivacyPolicyVersion"		"2"
+				"SteamDefaultDialog"		"#app_games"
+				"DesktopShortcutCheck"		"0"
+				"StartMenuShortcutCheck"		"0"
+				"apps"
+				{
+					"10190"
+					{
+						"cloudenabled"		"0"
+					}
+					"42690"
+					{
+						"cloudenabled"		"1"
+					}
+					"10180"
+					{
+						"cloudenabled"		"1"
+					}
+					"42710"
+					{
+						"cloudenabled"		"1"
+					}
+					"202990"
+					{
+						"cloudenabled"		"1"
+					}
+					"240"
+					{
+						"cloudenabled"		"1"
+					}
+					"730"
+					{
+						"cloudenabled"		"1"
+					}
+				}
+				"AutoLaunchGameListCheck"		"1"
+				"SurveyDate"		"2018-04-01"
+				"SurveyDateVersion"		"761526298078751812"
+				"friendsui"
+				{
+					"FriendsUIJSON"		"{\"bNotifications_ShowIngame\":true,\"bNotifications_ShowOnline\":false,\"bNotifications_ShowMessage\":true,\"bNotifications_EventsAndAnnouncements\":true,\"bSounds_PlayIngame\":false,\"bSounds_PlayOnline\":false,\"bSounds_PlayMessage\":true,\"bSounds_EventsAndAnnouncements\":false,\"bAlwaysNewChatWindow\":false,\"bForceAlphabeticFriendSorting\":false,\"nChatFlashMode\":0,\"bRememberOpenChats\":true,\"bCompactQuickAccess\":false,\"bCompactFriendsList\":false,\"bNotifications_ShowChatRoomNotification\":true,\"bSounds_PlayChatRoomNotification\":true,\"bHideOfflineFriendsInTagGroups\":false,\"bHideCategorizedFriends\":false,\"bCategorizeInGameFriendsByGame\":true,\"nChatFontSize\":2,\"b24HourClock\":false,\"bDoNotDisturbMode\":false,\"bDisableEmbedInlining\":false,\"bSignIntoFriends\":true,\"bDisableSpellcheck\":false,\"bDisableRoomEffects\":false,\"bAnimatedAvatars\":true,\"featuresEnabled\":{\"DoNotDisturb\":1,\"LoaderWindowSynchronization\":1,\"NonFriendMessageHandling\":1,\"NewVoiceHotKeyState\":1,\"PersonaNotifications\":1,\"ServerVirtualizedMemberLists\":1,\"SteamworksChatAPI\":1},\"bSingleWindowMode\":false}"
+				}
+			}
+		}
+	}
+	"TradeInfoHint"		"1"
+	"Web"
+	{
+		"WebFav0_URL"		"https://www.google.com/"
+		"WebFav0_Name"		"Google"
+		"WebFav1_URL"		"http://www.youtube.com/"
+		"WebFav1_Name"		"YouTube"
+		"WebFav2_URL"		"http://www.twitter.com/"
+		"WebFav2_Name"		"Twitter"
+		"WebFav3_URL"		"http://www.facebook.com/"
+		"WebFav3_Name"		"Facebook"
+		"WebFav4_URL"		"http://www.reddit.com/"
+		"WebFav4_Name"		"Reddit"
+	}
+}

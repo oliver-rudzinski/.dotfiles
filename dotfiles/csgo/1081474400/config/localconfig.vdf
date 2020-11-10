@@ -1,0 +1,165 @@
+"UserLocalConfigStore"
+{
+	"streaming_v2"
+	{
+		"EnableStreaming"		"1"
+		"DefaultAudioDevice"		"{0.0.0.00000000}.{a52dea69-6c74-40b2-8489-2ac0bf4753f1}"
+		"DefaultAudioDeviceName"		"Speakers (Siberia V2 Illuminated)"
+		"DefaultMicrophone"		"{0.0.1.00000000}.{37ba8392-07e2-45e4-9ed4-aa9a64ed3d64}"
+		"DefaultMicrophoneName"		"Microphone (Blue Snowball)"
+		"QualityPreference"		"2"
+	}
+	"Broadcast"
+	{
+		"Permissions"		"1"
+	}
+	"friends"
+	{
+		"PersonaName"		"r0dzi"
+		"communitypreferences"		"0801100118002000"
+		"1081474400"
+		{
+			"name"		"r0dzi"
+			"NameHistory"
+			{
+				"0"		"r0dzi"
+			}
+		}
+		"204163336"
+		{
+			"name"		"Ovakefali13"
+			"NameHistory"
+			{
+				"0"		"Ovakefali13"
+			}
+			"avatar"		"6d0847e94efbfa2cb80b6bd44a525c516a28f9f4"
+		}
+		"98406125"
+		{
+			"name"		"Albert Einstein"
+			"NameHistory"
+			{
+				"0"		"Albert Einstein"
+			}
+			"avatar"		"ee67dcd0f0d587a817a2e97caa9e6f04453d8590"
+		}
+		"82163012"
+		{
+			"name"		"[WiC] Arconer"
+			"NameHistory"
+			{
+				"0"		"[WiC] Arconer"
+			}
+			"avatar"		"1fb4fda45756a2b77ad0e0162a2a8b5668adaf38"
+		}
+	}
+	"apptickets"
+	{
+		"7"		"320000000400000060fd7540010010010700000005b998588100a8c000000000df91a55e5f41c15e010000000000000000008b22e8e85cee4462530a5699737afb508006137ced878f20669a08270ab1201bd625ec03854a4da2ca2e01871b7d7b10251dae908c24e1c257d240520f60823c2341268e1af2aa70cad5ee9e8c748c37689d9d07532ebe9ca4c82194c2bc511593ac5880da439504e229aa4079c134e73ee615bdf85d59c8cefdcf8caa5e4022"
+		"730"		"380000000400000060fd754001001001da02000005b998588100a8c000000000e091a55e6041c15e01000dd300000100b488090000000000aecbab13c28bb6f9d1456a786ed8cc678e6744ce123af92d878e5986f8e27a93b0c26678e374ad4a1b8b35d291542f83fb5a9c4c4557321688d4942224918b864e9e9f430da716c05dd97ec3e77dae90510645bbae954f8a48193bdd50bfe4948fbd7adb39276ea9b2808b102f62e954bb1eb20681772e828eb6d418701a35e1"
+	}
+	"ParentalSettings"
+	{
+		"settings"		"0960fd7540000000004800"
+		"Signature"		"b1ac677959a25b56e178002a78319a06398506791e12d61240adf94e49ab75d39173776a38f3758e4822a31d50c9b3632a536dd71210ea8c5516ac17ab11de15036b33a5ecb355ffca2d526424af4cec2140877fb1c1fe5c2a711292be1692222a9b99f5974d51ed5dc536ea1c760c6123d7e3e60fdc65a99c292ae68186d5d5b51080c9eabf83bb316a3eef9564629bdba91a2a4c95678719375346740cff96d84cd5bd1537f30bbbb4e02c01c729e18fef0e55a32932c8c4f7b4e697d6d68105f9423f80f4f760da384a97ea1c5a4c9a097c3847b517135fd12067d7962f4281f17fa415a52629f295e5934c227f3291338c4997d4f5842558edff24b110e2"
+	}
+	"SharedAuth"
+	{
+		"id"		"258981030"
+		"AuthData"		"1d39bd2190b265e493a805f7c8aa6acd199d182d017082087027e7d4fa5fb822"
+	}
+	"Offline"
+	{
+		"Ticket"		"29a018b41a48e9f05ea7cc12cae31cf73c609b25716222790b11d66aa51209fe06"
+		"Signature"		"77e912feb2ea0dbc802a65fa2fd6b2e8288db9c4e62bd3e8ab0a1f15968fda5546dd1bde78407d00758292105975f85547b4d8e7042e275b883d78c4e34deb3d832eb711839d53d7af0bf22fb08c3de5f72e71a2ccdc80a642a85c50b86d310a537b256e37d29fc03a0e72c81f641855747688c9674fd639468c04c619e520a6e3012e3e4c4bec295608b58382c3a350304cb3449a216fef894d5a14a99d094f813be9dacb17536ca03b50177df7fd825b53baf789d90f814a646533a6240e2ca9b0f01312ab87385d3a1afb00b33f3934c429b8de0ab1248484197118424285751f633456d4c20857486ff25ca1b06d97765b27a7301667132ef81d9b22289c"
+	}
+	"AppInfoChangeNumber"		"8284460"
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"LastPlayedTimesSyncTime"		"1586280045"
+				"Apps"
+				{
+					"730"
+					{
+						"LastPlayed"		"1587913156"
+						"BadgeData"		"020000000801"
+						"DisableUpdatesUntil"		"0"
+						"Playtime2wks"		"67"
+						"Playtime"		"584"
+					}
+				}
+				"PlayerLevel"		"1"
+			}
+		}
+	}
+	"WebStorage"
+	{
+		"UIStoreLocalState"		"{\"nVersion\":1,\"eGameListView\":1,\"bGroupedByCollection\":true,\"bSortedByRecent\":false,\"mapCollapsedState\":[[\"uncategorized\",false]],\"currentSelection\":{\"strCollectionId\":\"uncategorized\",\"nAppId\":730},\"bGroupBySharedLibraries\":false,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}]}}"
+		"user-collections"		"{}"
+		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":3,\"timestamp_added\":0},{\"content_descriptorid\":4,\"timestamp_added\":0}]}}"
+		"CachedCommunityPreferences"		"{\"bBlurAdultContentViolence\":true,\"bBlurAdultContentSex\":true,\"bParenthesizeNicknames\":false}"
+		"SteamVoiceSettings_1081474400"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true}"
+		"friendsactivitystore_storage"		"{\"nVersion\":1,\"cachedFriendsAppsActivity\":{\"trending\":[],\"recent_purchases\":[],\"unowned\":[],\"popular\":[],\"dont_forget\":[],\"being_discussed\":[],\"new_to_group\":[],\"returned_to_group\":[],\"active_friend_count\":0},\"rtCachedFriendsAppsActivityTimeStamp\":1587909089.577}"
+		"ChatStorePopupState_1081474400"		"{\"window_restore_details\":\"1&x=528&y=215&w=740&h=650&min=1\",\"defaultTabs\":{\"tabs\":[\"f204163336\"],\"active_tab\":\"f204163336\"},\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListSingleWindow\":false,\"bFriendsListCollapsed\":false}"
+		"GameInvites_1081474400"		"{\"dismisstimes\":{\"1081474400\":1585913423}}"
+	}
+	"system"
+	{
+		"PushToTalkKey"		"0"
+	}
+	"depots"
+	{
+		"732"
+		{
+			"CDN"
+			{
+				"steam.naeu.qtlglb.com"
+				{
+					"token"		""
+					"Expires"		"1586431668"
+				}
+				"f3b7q2p3.ssl.hwcdn.net"
+				{
+					"token"		""
+					"Expires"		"1586431668"
+				}
+			}
+		}
+		"731"
+		{
+			"CDN"
+			{
+				"steam.naeu.qtlglb.com"
+				{
+					"token"		""
+					"Expires"		"1586431670"
+				}
+			}
+		}
+	}
+	"CloudKey"		"01000000f796cdaab10b0775630cb91d095b618572270e1aea6a444d25d10f4ede44d93fd1a7f9ea"
+	"CloudKeyCRC"		"-1688646798"
+	"nettickets"
+	{
+		"730"		"01000000fdd7bd2a8b9b36f8b2a398b63d1c3982612ab91cde6d77756025a597725725a0542ed361604e5d8be43ee131a41ccd54cfdd69ae81eaa2070229ad50cb1eb3ad5cf575594596af8739cbe887c82b1e2c320ec1d28e2eb737a2b95e51e97c1bbcce92515356236a72e5eccfa2ddd43615f83cb8641bd018ae516a1dba69cd0cdd33da51e63346b70c95d3e505ae9ef61c06ee7b2843ae09e6d6b38fbc6b4d6bdea9981901fa9dd62450659f3a48efa2d9d07968dc91bed485ff302493fba1982147ac947d13a7382884ace81da682d51942331f339d648096c146584aa8ddd985681e0c41f9e35e5c842a4d18d536b51d24c00495ab6f1ccb5d1ba5a258aa3d1db79dacdc047d5862b420703315e90064ae2dbc198d10b37f8b64478844805481fb7a6dd3eab11bc2a56b5a12e6e1b3016b7d6415911f3b7dcd81914d9d95d6bac9e74b7df2be1e74fe8e93e96162fc57093ce4685df822c04908fb5906ce66431eb5414a03e357df0bbfdc5daa27a506fd82fc25303bcb2c0eeda6f16c5c1d60d08efeb3c830f900a06ef9611577881f90104f7e1651ab119068666c0980f156b4389d187165e6c88e4ca0fb2b04c18dd257333f8cb491f6ebf8c20b3e617aad91eb995d80b01d1c0d7b547d4a7ba3e60d49d036084a650c90ad185db95115011c0aa0479c0fdd9af432d1c7da3ac8a5cd6e7994ff3bbc353e1d1a0c17e8abb86a66e3a66308a124a76f5759256ad45bde0e2bea264aed2ea8cffa1958779d877ae01b7b49a26b37bf33a3f0243294b74ac96d66ee2bc26a4ef48b49b0250a14b6f391a07ea99f7b9010d862ca23fc60e55371ff3e0c7a1fdbcb1e86b792a31f4d26df2bb47e14d732a635dc4806386d9d0dd7f0a11908c5872a05c034b2eebbc7107506531e804fbf576bd2f8282a258138803eecaeafd95767c7c770e86274fe890e356a0b720f0ee2224b88829a25d1e504911a7aec681fe5cef214b7d3078d0a15cddb271494dd357a8d628ef05bf06f79e751c53bb190bd4541baa7476d07a145f85e"
+	}
+	"StartupState.Friends"		"0"
+	"News"
+	{
+		"Messages"
+		{
+			"7404779241430619469"		"1"
+			"3052001550742387655"		"1"
+			"977938410818927687"		"1"
+		}
+	}
+	"Licenses"
+	{
+		"0"		"01000000f7dab672badab2161b2e4f2cab7b09e7b25ce3925558018bd7f464292862a95c32c91d31ce68008d6f727e0c19f4cbedb971dff0b061a8701e0317e2c2d605dda14167f746f9a7e14dadada58a0457bbb9e82e6f71d9e96eab6f3d0d7fc33aca3d418092e8795dac2c9a28e6d35d0e308d54c7015e3a8d0b0f26a7fbb3f0346645e5180847483e0bac918a71cafcef6d14e77b2259ca33d1e086bbd93f062087e9c65c4c89c38079795b3246dac2446c4f2e46ac0f6eb68baaddec8180c1884707d8448f0ca720897e716de16b61e8e77773eeb564c61e54ffa7585b1fa4dc42853e431d8f2067d216efac88e74829c06ba60f8d0d0b6324ac988e21258da968759ca1b2e3d80421b1b360047585440cde48e977e445b95b90d150b9084bd0b099"
+		"54029"		"01000000f7dab672badab2161b2e4f2cab7b09e7b25ce3925558018bd7f469fa2862a95c32c91d31ce68008d6f727e0826d5cbedb971dff0b061a8701e0317e2c2d605dda14167f746f9a7e14dadada58a0457bbb9e82e6f71d9e96eab6f3d0d7fc33aca3d418092e8795dac2c9a28e6d35d0e308d54c7015e3e890b0f26a7fbb3f0346645e5180847483e0bac918a71cafcab2a72897c294bad40d1e086b98d5820379cefc05a5ab8d5a7731d3e3246dac0280740224bba0469aa8fb6ad888181c18a0872f95693209169ad8364d096620dc8fd7766eb846de41249f2c83c5b1fa4de0be91e591d9a2552d72fe39483db5240b46ba60f8f5f6c5f24b59c95102cafa57578f3c5b2e3d80673d68f601d719e7109e744d17cd85fd02f90d150b1000808910f8c2b"
+	}
+}

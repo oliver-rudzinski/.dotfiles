@@ -1,0 +1,21 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Xcode Default (Light)",
+    "vsicons.dontShowNewVersionMessage": true,
+    "terminal.integrated.fontFamily": "Menlo",
+    "editor.fontFamily": "Monaco, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.minimap.enabled": false,
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 0,
+    "terminal.integrated.shell.osx": "/bin/bash",
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+    "[xml]": {
+        "editor.defaultFormatter": "fabianlauer.vs-code-xml-format"
+    },
+    "latex-workshop.view.pdf.viewer": "tab",
+    "python.defaultInterpreterPath": "/Users/oliver/.pyenv/shims/python",
+    "editor.fontLigatures": null
+}

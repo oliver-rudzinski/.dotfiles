@@ -1,0 +1,56 @@
+brew install
+    ansible
+    git
+    mas
+    mongodb
+    lastpass-cli
+    mongodb-community
+    node
+    python
+
+brew cask install
+    google-chrome
+    spotify
+    notion
+    texpad
+    microsoft-teams
+    visual-studio-code
+    jetbrains-toolbox
+    setapp
+    adobe-creative-cloud
+    jabref
+    postman
+    background-music
+    steam
+    mongodb-compass
+    drawio
+    vlc
+    docker
+    virtualbox
+
+
+mas install
+    1147396723 # whatsapp
+    462054704 # ms word
+    462058435 # ms excel
+    462062816 # ms powerpoint
+    985367838 # ms outlook
+    823766827 # onedrive
+    926036361 # lastpass
+    497799835 # xcode
+    441258766 # magnet
+    425424353 # the unarchiver
+
+# manually from jetbrains toolbox:
+    pycharm
+    webstorm
+    datagrip
+    intellij
+
+# manually from adobe cc:
+    photoshop
+    lightroom
+    indesign
+
+
+

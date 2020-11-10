@@ -1,0 +1,63 @@
+"730"
+{
+	"cfg/config.cfg"
+	{
+		"root"		"0"
+		"size"		"11583"
+		"localtime"		"1485015631"
+		"time"		"1485015630"
+		"remotetime"		"1485015630"
+		"sha"		"f0232a7f027932a3aa0ce1d4c84789aa75ed6dd8"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"item_clientacks.txt"
+	{
+		"root"		"0"
+		"size"		"23"
+		"localtime"		"1432500069"
+		"time"		"1432500069"
+		"remotetime"		"1432500069"
+		"sha"		"f88ff5b803e10ccee0798a66d902b537205dbefc"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"materials/vgui/logos/spray.vmt"
+	{
+		"root"		"0"
+		"size"		"133"
+		"localtime"		"1433080843"
+		"time"		"1433080842"
+		"remotetime"		"1433080842"
+		"sha"		"896f1cf301416de2ad685aeea81028bbc7088974"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"materials/vgui/logos/spray.vtf"
+	{
+		"root"		"0"
+		"size"		"22064"
+		"localtime"		"1433080843"
+		"time"		"1433080842"
+		"remotetime"		"1433080842"
+		"sha"		"c5a4952eedf9a8b4469a5a461f3ab211785e3176"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"cfg/csgo_saved_item_shuffles.txt"
+	{
+		"root"		"0"
+		"size"		"24"
+		"localtime"		"1585153381"
+		"time"		"1585153380"
+		"remotetime"		"1585153380"
+		"sha"		"c7bdc563982fc4ddddb9e6f8853b298967d858f9"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
