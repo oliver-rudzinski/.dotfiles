@@ -1,6 +1,11 @@
 # Oliver Rudzinski's `dotfiles` 
 This is a work-in-progress repository for personal default settings on macOS.
 
+
+1. Copy dotfiles
+2. Install stuff
+3. Run .macos
+4. 
 ---
 ## Backup Information
 ### Applications

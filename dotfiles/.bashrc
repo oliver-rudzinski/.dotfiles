@@ -1,5 +1,7 @@
 ### Shell Configuration
 
+
+
 # PS1
 export PS1="[\u@\H] \w >\n\\$ \[$(tput sgr0)\]"
 PS1="\n$PS1"
@@ -36,6 +38,10 @@ function cd() {
       fi
   fi
 }
+
+### Node.js
+export NVM_DIR=~/.nvm
+source $(brew --prefix nvm)/nvm.sh
 
 ### Misc
 
