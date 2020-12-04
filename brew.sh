@@ -3,6 +3,9 @@
 sudo -v
 while true; do sudo -n true; sleep 60; kill -0 "$$" || exit; done 2>/dev/null &
 
+# Synchronize all dotfiles with the home directory
+rsync -a ./dotfiles/ ~
+
 # Install Command Line Tools
 xcode-select --install
 
@@ -30,9 +33,12 @@ pyenv global $PYTHON_VERSION
 # Add eval to .bash_profile (commented out since it is already included with my dotfiles)
 # echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n  eval "$(pyenv init -)"\nfi' >> ~/.bashrc
 
+brew install direnv
+
 # Install Node.js via nvm
 # https://jamesauble.medium.com/install-nvm-on-mac-with-brew-adb921fb92cc
 brew install nvm
+source ~/.bash_profile
 nvm install --lts
 nvm use --lts
 
