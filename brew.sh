@@ -16,7 +16,8 @@ brew upgrade
 
 # Set Bash to be the default shell
 brew install bash
-chsh -s /usr/local/opt/bash
+echo $(brew --prefix bash) | sudo tee -a /etc/shells
+chsh -s $(brew --prefix bash)
 
 # Install Packages
 brew install git
@@ -24,7 +25,7 @@ brew install mas
 brew install speedtest-cli
 
 # Install Python via pyenv
-PYTHON_VERSION = "3.8.2"
+PYTHON_VERSION="3.8.2"
 
 brew install pyenv
 pyenv install $PYTHON_VERSION
@@ -38,18 +39,20 @@ brew install direnv
 # Install Node.js via nvm
 # https://jamesauble.medium.com/install-nvm-on-mac-with-brew-adb921fb92cc
 brew install nvm
+
+if [ -r ~/.bashprofile ]
+
 source ~/.bash_profile
 nvm install --lts
 nvm use --lts
 
+CODING_APPS=( "visual-studio-code", "jetbrains-toolbox", "insomnia", "mongodb-compass", "docker", "virtualbox" )
 ## APPLICATIONS
 # Coding
-brew cask install visual-studio-code
-brew cask install jetbrains-toolbox
-brew cask install insomnia
-brew cask install mongodb-compass
-brew cask install docker
-brew cask install virtualbox
+for coding_app in "${CODING_APPS[@]}"
+do
+    brew install --cask $coding_app
+done
 mas install 497799835 # xcode
 
 # Design
@@ -58,6 +61,7 @@ brew cask install adobe-creative-cloud
 
 # Writing
 brew cask install mactex-no-gui
+eval "$(/usr/libexec/path_helper)"
 brew cask install texpad
 brew cask install jabref
 

@@ -43,15 +43,6 @@ function cd() {
 export NVM_DIR=~/.nvm
 source $(brew --prefix nvm)/nvm.sh
 
-### Misc
-
-# DXC Technology AWS IAM Credentials
-export $(echo $(grep AWS_ACCESS_KEY_ID ~/.aws/credentials))
-export $(echo $(grep AWS_SECRET_ACCESS_KEY ~/.aws/credentials))
-
-# DXC ACME Retail DataOps project work directory PYTHONPATH
-export PYTHONPATH=$PYTHONPATH:~/Development/dataops/acme:~/Development/dataops/acme/stages/2_convert
-
 ### Directory shortcuts
 
 # Enable cd to recognize variables
